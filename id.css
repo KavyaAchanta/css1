@@ -1,0 +1,57 @@
+/*#abc{
+	font-size:50px;
+	font-family:cursive;
+}
+p{
+	color:pink;
+	font-size:50px;
+}
+div{
+	height:100px;
+	width:100px;
+	background-color: skyblue;
+	border:5px solid darkred;
+}
+/*{
+	font-size:20px;
+	font-family:cursive;
+	color :grey;
+}
+input[type="text"]{
+	color:springgreen;
+}
+input[type="number"]{
+	color:deeppink;
+}
+/*a[href]{
+	color:skyblue;
+}
+img[src]{
+	border:5px solid skyblue;
+}*/
+div{
+	height:100px;
+	width:100px;
+	background-color: pink;
+}
+a:link{
+	color:brown;
+}
+a:visited{
+	color:red;
+	font-size:50px;
+
+}
+a:hover{
+	color:royalblue;
+	font-size:30px;
+}
+a:active{
+	color:yellow;
+}
+	
+div:hover{
+	height:300px;
+	width:300px;
+	background-color:red;
+}
