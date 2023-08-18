@@ -1,0 +1,142 @@
+.a{
+	height:70px;
+	width:1500px;
+    background:ghostwhite;
+    margin-bottom:20px;
+}
+.b{
+	height:700px;
+	width:400px;
+    background:ghostwhite;
+    float:left;
+    margin-right:20px;
+    margin-left:20px;
+    padding-top:20px;
+    padding-left:20px;
+}
+.c{
+	height:800px;
+	width:1000px;
+    float:left;
+}
+.b1{
+	height:40px;
+ 	width:110px;
+ 	color:white;
+ 	background-color:lightgreen;
+ 	margin-top:20px;
+ 	margin-right:10px;
+ 	border: none;
+ 	border-radius:5px;
+}
+.b2{
+	height:40px;
+ 	width:110px;
+ 	color:white;
+ 	background-color:deepskyblue;
+ 	margin-top:20px;
+ 	margin-right:10px;
+ 	border: none;
+ 	border-radius:5px
+}
+select{
+	height:40px;
+ 	width:110px;
+ 	color:white;
+ 	background-color:deeppink;
+ 	margin-top:20px;
+ 	margin-right:10px;
+ 	border: none;
+ 	border-radius:5px
+}
+.e{
+	height:40px;
+ 	width:150px;
+ 	color:white;
+ 	background-color:blue;
+ 	margin-top:20px;
+ 	margin-right:10px;
+ 	border: none;
+
+ 	border-radius:5px
+
+
+}
+.f{
+	height:40px;
+ 	width:110px;
+ 	color:white;
+ 	background-color:blue;
+ 	margin-top:20px;
+ 	margin-right:10px;
+ 	border: none;
+ 	border-radius:5px;
+}
+.g{
+	height:40px;
+ 	width:110px;
+ 	background-color:white;
+    color:blue;
+ 	border-color:blue;
+ 	border-radius:5px;
+}
+i{
+	font-size:30px;
+}
+.s{
+	font-size:20px;
+}
+.t{
+	font-size:15px;
+	text-align:left;
+}
+.x{
+	height:5px;
+	width:750px;
+	background-color:blue;
+	margin-left:15px;
+	border-radius:5px;
+}
+.y{
+	height:5px;
+	width:720px;
+	background-color:red;
+	margin-left:15px;
+	border-radius:5px;
+
+}
+.z{
+	height:5px;
+	width:780px;
+	background-color:green;
+	margin-left:15px;
+	border-radius:5px;
+}
+.w{
+	height:5px;
+	width:680px;
+	background-color:yellow;
+	margin-left:15px;
+	border-radius:5px;
+}
+.u{
+	height:5px;
+	width:720px;
+	background-color:blueviolet;
+	margin-left:15px;
+	border-radius:5px;
+
+}
+h1{
+	padding-left:15px;
+}
+p{
+	padding-left:15px;
+}
+.circle{
+	height:200px;
+	width:200px;
+	border:2px solid black;
+	border-radius:50%;
+}
+

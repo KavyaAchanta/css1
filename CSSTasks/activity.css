@@ -1,0 +1,38 @@
+.a{
+	height:350px;
+	width:1050px;
+	background:whitesmoke;
+
+}
+.b{
+    height:300px;
+    width:300px;
+    background:white;
+    float:left;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:20px;
+    margin-right:20px;
+    border-radius:25px;
+    padding-top:15px;
+
+   }
+ i{
+ 	font-size:50px;
+ 	color:blue;
+
+
+ }
+ button{
+ 	 color:white;
+ 	 border-radius:20px;
+ 	 background-color:blue;
+ 	 height:40px;
+ 	 width:110px;
+
+ }
+ hr{
+ 	color:blue;
+ 	margin-left:30px;
+ 	margin-right:40px;
+ }
